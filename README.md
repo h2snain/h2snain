@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello, I'm Ahmad Hasnain! 👋
 
-<!--
-**h2snain/h2snain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Meta Front End Professional Certificate
+- 🌱 I’m currently learning JavaScript, Front-End Development & Python
+- 👯 I’m looking to collaborate on Twitter
+- 🤔 I’m looking for help with Front-End Development and React
+- 💬 Ask me about Front-End Development
+- 📫 How to reach me: Twitter - @AhmadHa33305223
+- 😄 Pronouns: He/his
+- ⚡ Fun fact: I do lot's of stuff
+
